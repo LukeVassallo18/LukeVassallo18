@@ -2,21 +2,33 @@
 
 🎓 IT Student | Frontend Developer  
 
-I enjoy building modern web applications and interactive interfaces, with a growing interest in AR and computer vision projects.
+I build modern **single-page applications using React and Vue**, with a strong focus on **clean and minimal UI/UX design**.  
+I enjoy designing interfaces in **Figma** and bringing them to life with scalable custom components and animations
 
 ---
 
 ### 💻 Tech Stack
-![Skills](https://skillicons.dev/icons?i=react,vue,js,html,css,tailwind,git,github)
+![Skills](https://skillicons.dev/icons?i=react,vue,ts,js,html,css,tailwind,firebase,figma,git,github)
+
+---
+
+### 🎨 UI & Frontend Focus
+- ⚛️ Single Page Applications (React)
+- 🎨 UI/UX design & prototyping with Figma
+- 🔥 Firebase authentication & database
+- 🧩 Custom Components
+- 📱 Responsive & accessible layouts
 
 ---
 
 ### 📌 Projects
-- 🌐 Web-based AR cooking assistant  
-- 📷 Object recognition with YOLO & Flask  
-- 🖥️ Frontend dashboards using React & Vue  
+- ⚛️ React SPA dashboards
+- 🔐 Firebase-authenticated web apps
+- 🎨 Figma-to-React UI implementations
 
 ---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LukeVassallo18&show_icons=true)
 
 ### 🔗 Portfolio
 https://portfolio-lukes-projects-9f3bb726.vercel.app/projects
