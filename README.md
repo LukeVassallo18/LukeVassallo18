@@ -29,4 +29,4 @@ I enjoy designing interfaces in **Figma** and bringing them to life with scalabl
 ---
 
 ### 🔗 Portfolio
-https://portfolio-lukes-projects-9f3bb726.vercel.app/projects
+https://portfolio-lukes-projects-9f3bb726.vercel.app/
