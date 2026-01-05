@@ -28,7 +28,5 @@ I enjoy designing interfaces in **Figma** and bringing them to life with scalabl
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LukeVassallo18&show_icons=true)
-
 ### 🔗 Portfolio
 https://portfolio-lukes-projects-9f3bb726.vercel.app/projects
